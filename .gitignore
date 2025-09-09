@@ -1,0 +1,16 @@
+# Frontend dependencies
+Frontend/node_modules/    # Capital 'F'
+Frontend/.next/
+Frontend/out/
+
+# Backend dependencies  
+backend/node_modules/     # lowercase 'b'
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+thumbs.db
